@@ -1,0 +1,6 @@
+Rows merged: 211224
+Correlation (Fear-Greed vs Closed_PnL): 0.0083
+Kruskal-Wallis p-value: 5.1417e-264
+Random Forest RMSE: 517.993
+Sentiment impact on volatility saved to outputs/volatility_by_sentiment.csv
+Visualizations saved to outputs/*.png
